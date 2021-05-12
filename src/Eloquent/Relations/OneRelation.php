@@ -212,7 +212,7 @@ abstract class OneRelation extends BelongsTo implements RelationInterface
 
     public function getRelationName()
     {
-        return $this->relation;
+        return $this->relationName;
     }
 
     public function getRelationType()

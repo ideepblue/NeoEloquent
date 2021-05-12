@@ -1,5 +1,5 @@
 {
-    "name": "ulobby/neoeloquent",
+    "name": "ideepblue/neoeloquent",
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "laravel",
@@ -17,6 +17,10 @@
         {
             "name": "Ulobby",
             "email": "ulobby@ulobby.eu"
+        },
+        {
+            "name": "Fan Dong",
+            "email": "idongfan@gmail.com"
         }
     ],
     "require": {
